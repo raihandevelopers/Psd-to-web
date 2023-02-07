@@ -1,0 +1,267 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 700px;
+	 height: 1300px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 1300px;
+	 z-index:1;
+} 
+
+ #Rectangle3copy 
+{ 
+	 left: -901px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 3319px;
+	 height: 1369px;
+	 z-index:2;
+} 
+
+ #Layer6copy 
+{ 
+	 left: -2px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 702px;
+	 height: 817px;
+	 z-index:3;
+} 
+
+ #Rectangle2 
+{ 
+	 left: -26px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 785px;
+	 height: 1135px;
+	 z-index:4;
+} 
+
+ #Layer4 
+{ 
+	 left: -201px; 
+	 top: -122px; 
+	 position: absolute; 
+	 width: 959px;
+	 height: 1544px;
+	 z-index:5;
+} 
+
+ #Layer4copy 
+{ 
+	 left: -129px; 
+	 top: -339px; 
+	 position: absolute; 
+	 width: 959px;
+	 height: 1639px;
+	 z-index:6;
+} 
+
+ #Layer8 
+{ 
+	 left: 21px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 110px;
+	 z-index:7;
+} 
+
+ #Layer11 
+{ 
+	 left: 367px; 
+	 top: 483px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 60px;
+	 z-index:8;
+} 
+
+ #Layer15 
+{ 
+	 left: 62px; 
+	 top: 776px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 130px;
+	 z-index:9;
+} 
+
+ #Layer13 
+{ 
+	 left: 21px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 162px;
+	 z-index:10;
+} 
+
+ #Layer14 
+{ 
+	 left: 114px; 
+	 top: 206px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 81px;
+	 z-index:11;
+} 
+
+ #Layer14copy 
+{ 
+	 left: 564px; 
+	 top: 964px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 96px;
+	 z-index:12;
+} 
+
+ #Layer12 
+{ 
+	 left: 407px; 
+	 top: 200px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 116px;
+	 z-index:13;
+} 
+
+ #Layer9 
+{ 
+	 left: 523px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 134px;
+	 z-index:14;
+} 
+
+ #Layer10copy 
+{ 
+	 left: 548px; 
+	 top: 419px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 124px;
+	 z-index:15;
+} 
+
+ #Layer10copy2 
+{ 
+	 left: 548px; 
+	 top: 419px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 124px;
+	 z-index:16;
+} 
+
+ #Layer10copy3 
+{ 
+	 left: 279px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 124px;
+	 z-index:17;
+} 
+
+ #Layer19 
+{ 
+	 left: 206px; 
+	 top: 971px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 161px;
+	 z-index:18;
+} 
+
+ #Layer18 
+{ 
+	 left: 307px; 
+	 top: 1019px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 82px;
+	 z-index:19;
+} 
+
+ #Layer17 
+{ 
+	 left: 561px; 
+	 top: 681px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 152px;
+	 z-index:20;
+} 
+
+ #layer_28 
+{ 
+	 left: 606px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 26px;
+	 z-index:21;
+} 
+
+ #layer_41 
+{ 
+	 left: 341px; 
+	 top: 805px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 24px;
+	 z-index:22;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 174px; 
+	 top: 339px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 188px;
+	 z-index:23;
+} 
+
+ #Rectangle1copy 
+{ 
+	 left: 155px; 
+	 top: 517px; 
+	 position: absolute; 
+	 width: 391px;
+	 height: 150px;
+	 z-index:24;
+} 
+
+ #MONTHLYINSIGHTS 
+{ 
+	 left: 198px; 
+	 top: 362px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 278px;
+	 z-index:25;
+} 
